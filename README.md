@@ -1,0 +1,2 @@
+# ModuleMagisk
+Module Magisk Gaming 
